@@ -1,0 +1,4 @@
+- name: Echo
+  hosts: localhost
+  connection: local
+  tasks:
